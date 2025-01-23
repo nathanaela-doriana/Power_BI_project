@@ -68,23 +68,26 @@ This project analyzes Airbnb data to provide detailed insights into accommodatio
    - Analyzes the relationship between free cancellation options and pricing.
    - Helps hosts assess whether offering free cancellation aligns with market expectations and increases visibility.
 
-## Repository Structure
-📁 notebooks/
-   ├── Airbnb Part 1 - scraping.ipynb: Scrapes data from Airbnb listings.
-   ├── Airbnb Part 2 - cleaning.ipynb: Cleans and preprocesses the scraped data.
-   ├── Airbnb Part 3 - comments analysis.ipynb: Performs keyword analysis on guest comments.
-
-📁 data/
-   ├── Final Dataset for PowerBI.csv: Cleaned and enriched dataset for analysis.
-
-📄 README.md: Overview of the project.
-📄 PowerBI Dashboard: Visual representation of insights.
-
 
 ## How This Dashboard Adds Value
 
 - **For Hosts**: Assists in tailoring their listings to better suit regional demands, pricing competitively, and highlighting features that matter most to travelers.
 - **For Travelers**: Offers a clear view of the most popular and cost-effective accommodations based on their priorities and preferred regions.
+  
+
+## Repository Structure
+
+📁 **notebooks/**  
+&nbsp;&nbsp; ├── **Airbnb Part 1 - scraping.ipynb**: Scrapes data from Airbnb listings.  
+&nbsp;&nbsp; ├── **Airbnb Part 2 - cleaning.ipynb**: Cleans and preprocesses the scraped data.  
+&nbsp;&nbsp; └── **Airbnb Part 3 - comments analysis.ipynb**: Performs keyword analysis on guest comments.
+
+📁 **data/**  
+&nbsp;&nbsp; └── **Final Dataset for PowerBI.csv**: Cleaned and enriched dataset for analysis.
+
+📄 **README.md**: Overview of the project.  
+📄 **PowerBI Dashboard**: Visual representation of insights.
+
 
 
 ## How to Reproduce the Project
