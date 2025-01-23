@@ -1,4 +1,4 @@
-# Airbnb Insights: Comprehensive Insights on Accommodation Trends and Traveler Preferences in France
+# Insights about Airbnb France 
 
 ## Project Description
 This project analyzes Airbnb data to provide detailed insights into accommodation trends, pricing strategies, host characteristics, and traveler priorities in France. By leveraging this dashboard, both new and experienced Airbnb hosts can optimize their offerings to align with market demands, while travelers can gain a better understanding of regional trends and prioritize their preferences.
